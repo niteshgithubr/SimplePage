@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/SimplePage/static/css/main.04eb8c3a.css",
+    "main.js": "/SimplePage/static/js/main.e451f727.js",
+    "index.html": "/SimplePage/index.html",
+    "main.04eb8c3a.css.map": "/SimplePage/static/css/main.04eb8c3a.css.map",
+    "main.e451f727.js.map": "/SimplePage/static/js/main.e451f727.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.04eb8c3a.css",
+    "static/js/main.e451f727.js"
+  ]
+}
